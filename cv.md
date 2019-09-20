@@ -54,5 +54,5 @@ humanitarian only
 
 ***
 
-## Englich
+## English
 school level (grammar, reading)
