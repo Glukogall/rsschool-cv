@@ -18,8 +18,10 @@ I want to make good full-stack applications, evolving all the time, explore new 
  - HTML  
  - CSS  
  - Adobe Photoshop  
+ - Joomla
  - to some extent javascript  
     - node.js
+    - Wordpress
 
 ***
 
