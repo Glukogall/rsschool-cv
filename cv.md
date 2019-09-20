@@ -45,6 +45,7 @@ I want to make good full-stack applications, evolving all the time, explore new 
 ## Experience
  * SEO  
  * content management  
+ * SMM
 
 ***
 
