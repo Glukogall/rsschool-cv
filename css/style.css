@@ -1,6 +1,6 @@
 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 30px;
+  font-size: 40px;
   font-weight: bold;
 }
 h2 {
@@ -14,7 +14,9 @@ p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 16px;
 }
-ul {}
+ul {
+  list-style-type: circle;
+}
 li {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 16px;
@@ -32,4 +34,15 @@ pre {
   margin: o auto;
   padding: 5px 20px;
   line-height: 200%;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+.photo-container {
+  padding: 5px;
+  margin: 0 10px;
+}
+.text-container {
+  padding: 40px 5px 5px 5px;
 }
